@@ -1,6 +1,6 @@
 
-  <h1>Hello, I'm [Can]! 🕵️‍♂️</h1>
-  <p>Defending digital frontiers, one byte at a time.</p>
+  <h1>Hello, I'm Can 🕵️‍♂️</h1>
+  <p>CyberSecurity learner</p>
 </div>
 
 ---
