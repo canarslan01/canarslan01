@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3czZ3F2eDJ4N3BvcWlsdWVnbTBycnZkbG5jZHN4azlrb3I0dWxidCZlcD12MV9pbnRlcm5hbF9naWZfY2F0Y3JlYXRlZCZjdD1n/xT9IgusR8C00k4qEFi/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXE4NG1hOWthbWVjZTJsNWtmMGQyN21uMnZjazB5OGU5d2ZsZmdnMSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/e6Xwws1YBbosHSjkOo/giphy.gif)" alt="Security Analyst" width="60px"> 
+
   <h1>Hello, I'm [Your Name]! 🕵️‍♂️</h1>
   <p>Defending digital frontiers, one byte at a time.</p>
 </div>
