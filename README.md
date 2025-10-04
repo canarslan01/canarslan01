@@ -22,7 +22,3 @@ Provide easy ways for others to reach you for collaboration, opportunities, or j
   <a href="[[YourTwitterProfileURL_Optional](https://x.com/adrianshephardN)]">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-
-  <a href="mailto:[can849463@gmail.com]">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
