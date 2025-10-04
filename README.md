@@ -19,21 +19,11 @@
 
 Provide easy ways for others to reach you for collaboration, opportunities, or just a chat about cybersecurity!
 
-<p align="center">
-  <a href="[YourLinkedInProfileURL]">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="[YourTwitterProfileURL_Optional]">
+  <a href="[[YourTwitterProfileURL_Optional](https://x.com/adrianshephardN)]">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="[YourWebsite/BlogURL_Optional]">
-    <img src="https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog">
-  </a>
-  <a href="mailto:[your.email@example.com]">
+
+  <a href="mailto:[can849463@gmail.com]">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&label=Profile%20Views&color=5F9FEE&style=flat-square" alt="Profile Views">
 </p>
