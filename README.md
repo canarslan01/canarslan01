@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3czZ3F2eDJ4N3BvcWlsdWVnbTBycnZkbG5jZHN4azlrb3I0dWxidCZlcD12MV9pbnRlcm5hbF9naWZfY2F0Y3JlYXRlZCZjdD1n/xT9IgusR8C00k4qEFi/giphy.gif" alt="Security Analyst" width="60px"> 
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3czZ3F2eDJ4N3BvcWlsdWVnbTBycnZkbG5jZHN4azlrb3I0dWxidCZlcD12MV9pbnRlcm5hbF9naWZfY2F0Y3JlYXRlZCZjdD1n/xT9IgusR8C00k4qEFi/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXE4NG1hOWthbWVjZTJsNWtmMGQyN21uMnZjazB5OGU5d2ZsZmdnMSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/e6Xwws1YBbosHSjkOo/giphy.gif)" alt="Security Analyst" width="60px"> 
   <h1>Hello, I'm [Your Name]! 🕵️‍♂️</h1>
   <p>Defending digital frontiers, one byte at a time.</p>
 </div>
@@ -13,24 +13,6 @@
 - ✨ My goal is to build resilient systems and **demystify security** for developers and users alike.
 - 📬 How to reach me: **[your.email@example.com]** or connect with me on **LinkedIn** below.
 - ⚡ Fun fact: **[A personal, non-tech fact, e.g., I enjoy solving CTF challenges in my free time, or I'm an avid fan of cryptography history.]**
-
----
-
-## 📊 My GitHub Security Footprint
-
-Showcasing your GitHub activity with dynamic stats adds credibility.
-
-<div align="center">
-  <a href="https://github.com/[YourUsername]">
-    <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="[YourUsername]'s GitHub Stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/[YourUsername]">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
-  </a>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
 
 ---
 
